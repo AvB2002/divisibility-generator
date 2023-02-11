@@ -12,9 +12,6 @@ The Divisibility Test Calculator is capable of the following:
 
 - [@AvB2002](https://www.github.com/AvB2002)
 
-## Visit the Webpage
-[Click me to visit the Divisibility Generator](https://avb2002.github.io/dt-generator)
-
 ## Screenshots
 
 ![Sample Output #1](https://github.com/AvB2002/dt-generator/blob/master/screenshots/1.PNG)
