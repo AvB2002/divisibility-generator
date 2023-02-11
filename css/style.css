@@ -1,0 +1,20 @@
+  body{
+            background: #EDEDED;
+        }
+
+        .mui-panel{
+            margin: 2rem;
+        }
+
+        .mui--appbar-height{
+            padding-left:13px; 
+            font-size:25px;
+        }
+
+        .mui-panel{
+            margin: 2rem;
+        }
+
+        .mui--appbar-height{
+            text-align: center;
+        }
