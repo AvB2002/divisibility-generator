@@ -14,8 +14,8 @@ The Divisibility Test Calculator is capable of the following:
 
 ## Screenshots
 
-![Sample Output #1](https://github.com/AvB2002/dt-generator/blob/master/screenshots/1.PNG)
+![Sample Output #1](https://github.com/AvB2002/divisibility-generator/blob/master/screenshots/1.PNG)
 
-![Sample Output #2](https://github.com/AvB2002/dt-generator/blob/master/screenshots/2.PNG)
+![Sample Output #2](https://github.com/AvB2002/divisibility-generator/blob/master/screenshots/2.PNG)
 
-![Sample Output #2](https://github.com/AvB2002/dt-generator/blob/master/screenshots/3.PNG)
+![Sample Output #2](https://github.com/AvB2002/divisibility-generator/blob/master/screenshots/3.PNG)
