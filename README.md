@@ -9,8 +9,11 @@ The Divisibility Test Calculator is capable of the following:
 - Generate numbers(s) divisible by N (user input).
 
 ## Authors
-
 - [@AvB2002](https://www.github.com/AvB2002)
+
+## Language
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Javascript](https://img.shields.io/badge/-javascript%20-green?style=for-the-badge&logo=javascript&logoColor=white&color=darkgreen)
 
 ## Screenshots
 
